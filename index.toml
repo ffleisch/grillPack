@@ -22,7 +22,7 @@ hash = "822107d7a1b872c9dc96f20390bb1e0a12b9e2399786cf28d172581b2e771484"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
-hash = "1e0ab37cdb42aa5ed853511960b85dfb577fb1d86413b1ad60c14c2926e73c7c"
+hash = "d74521852b39ae34083bd6483f8c716815902aa5b7067ff7b738a0c056cfe36b"
 
 [[files]]
 file = "config/easyanvils-server.toml"
