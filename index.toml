@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
+hash = "c429009b58f253786cee08ea0ea08a2408e7aabc510cce613ea0142c5eaf7c6f"
 metafile = true
 
 [[files]]
@@ -530,11 +530,6 @@ metafile = true
 [[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "f8989baf7649dd44d8db505a36ab57536663471d003def1afe510a8d9dacc8a9"
-metafile = true
-
-[[files]]
-file = "mods/hexxytweaks.pw.toml"
-hash = "7aceb168ecee607d7117e325f693531718253c45ac9cf0ca15d98d60410e41e9"
 metafile = true
 
 [[files]]
@@ -779,7 +774,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "36334e0acf94add2fd16b932298aed1a3c96f81a247712b1128084797e212245"
+hash = "bc33470d5d8f27717a5c0ef799d22690b7088399cfa59a84a50d85216d9e5ac7"
 metafile = true
 
 [[files]]
@@ -840,11 +835,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "805618a13f8bd42633fca47204d2c289db33c998e66ff39dd42b75ef21a171d9"
-metafile = true
-
-[[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "bf514f4cd45a9a33c736c715967add7994730ad8c47401f3de8817f30e2fe381"
 metafile = true
 
 [[files]]
