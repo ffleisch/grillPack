@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "805a1b3ab3967ae68f87a867a5bf3be5b559f73ab891e0112e93c7bd381e4e0e"
+hash = "99b668225eb08b706900780f0db448a2f439ecfd8a593526207b1dc8822e7409"
 metafile = true
 
 [[files]]
@@ -495,11 +495,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
-metafile = true
-
-[[files]]
-file = "mods/happiness-is-a-warm-gun.pw.toml"
-hash = "ec76cb2165d54e40419036d0c8faeb5205633459012fb4a6331bf7857f7a5997"
 metafile = true
 
 [[files]]
