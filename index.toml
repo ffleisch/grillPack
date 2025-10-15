@@ -118,6 +118,11 @@ hash = "2c4b410c370212602f85c9adb9d73ef73435e9d11cac086bbe40fdbdea03c6c3"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "f1a96a0fedba5714ee65167abd8b78f29c06956c692c988e819aee01fe3a95c2"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "d43d896112466518bc6a1775a7e70b00bbbbdb6bc70c1e4fb9f1cf9956986ae6"
 metafile = true
@@ -135,6 +140,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5a49a6bb40023efa158ceeed4b03aa1d0fbef6ac9ea0782206a0cecca1ca972c"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "0873fd4cf4c80f08e1f079ab19a47bfeb459be202b937e5a37aa9fedf28013b9"
 metafile = true
 
 [[files]]
@@ -934,6 +944,11 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "d68bbc15e00eff22b4b9f452361f5e70e489460b2b7841bc66ce17989c51dfc8"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "894064a8ba4872a95af3208dcb0b29a2d9614d00e245fb9a2bafb3f8b51578b2"
 metafile = true
 
 [[files]]
