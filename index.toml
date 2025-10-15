@@ -318,6 +318,11 @@ hash = "6afb4a854263ae1ec2f76fcc7871cd9a63870d3f208ec65c031eda73f9f120c8"
 metafile = true
 
 [[files]]
+file = "mods/create-big-cannons.pw.toml"
+hash = "4093de9995ab169207b274fc64d24674805e93f76b7962472c0fefb921113731"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "c429009b58f253786cee08ea0ea08a2408e7aabc510cce613ea0142c5eaf7c6f"
 metafile = true
