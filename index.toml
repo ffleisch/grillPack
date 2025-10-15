@@ -358,6 +358,11 @@ hash = "ae7da9393665eb20bcd5385fe3a699c90be192e84211f79613701c719743cff7"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "77a40b6f6d02d70a7d0b5570facc40e7ad016969503e7dbbaadbe2a2a8d85a34"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "ec0f3f834a3387266d9b8fe83112e4ce802ec6926f196e6b598dc1bf7e65c393"
 metafile = true
@@ -490,6 +495,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
+metafile = true
+
+[[files]]
+file = "mods/happiness-is-a-warm-gun.pw.toml"
+hash = "ec76cb2165d54e40419036d0c8faeb5205633459012fb4a6331bf7857f7a5997"
 metafile = true
 
 [[files]]

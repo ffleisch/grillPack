@@ -1,0 +1,13 @@
+name = "Diggus Maximus"
+filename = "diggusmaximus-1.5.8-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/S4LrRnI7/versions/Z3aldNMI/diggusmaximus-1.5.8-1.19.jar"
+hash-format = "sha512"
+hash = "1affbcdea5046c8b2adb6a2bb71e36d88bbb8576deda2cc99a5def05357109ff5eaaa6f6689fb70d3780a9bca5afdc2fec9e1b8a07a583a2543593caa221bf16"
+
+[update]
+[update.modrinth]
+mod-id = "S4LrRnI7"
+version = "Z3aldNMI"
