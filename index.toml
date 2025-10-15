@@ -917,11 +917,6 @@ hash = "372a411132154ed7b76bf177d42722fcb4cb526b49aed29ddf762818b9425e37"
 metafile = true
 
 [[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "d95f25297492928e39d8228f7f2e94a405f95bbf228ff134d61f361963c7d83d"
-metafile = true
-
-[[files]]
 file = "mods/vanity.pw.toml"
 hash = "5e59c51a0e5e779760f90c0a0f4bd631c1158b05acb72984747b27e0e119a244"
 metafile = true
