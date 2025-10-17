@@ -373,11 +373,6 @@ hash = "77a40b6f6d02d70a7d0b5570facc40e7ad016969503e7dbbaadbe2a2a8d85a34"
 metafile = true
 
 [[files]]
-file = "mods/ding.pw.toml"
-hash = "ec0f3f834a3387266d9b8fe83112e4ce802ec6926f196e6b598dc1bf7e65c393"
-metafile = true
-
-[[files]]
 file = "mods/displaycase.pw.toml"
 hash = "1e193f213c4484fa60e4547d581f42092ab46ed7f461bb6becb2c503f3ca0992"
 metafile = true
@@ -554,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "780e1e887859ee4d15f6d6fb3c830f4c7125079c7f52a3f94b5256123e86bb3c"
+hash = "10fd96b4771ce92a66110d72253e4ce2755f4baa44851975475a3d22c61e0cf1"
 metafile = true
 
 [[files]]
