@@ -1213,6 +1213,10 @@ file = "scripts/recipes/cutting.zs"
 hash = "8bc5a8410864c5aeba5c7f21c428811c98722e886752c66b9693c42a59a6e5e0"
 
 [[files]]
+file = "scripts/recipes/fixPipesAndSitcks.zs"
+hash = "a64d123c7a7e94ccfa59ace76398a39475c02c1b3520ee86cc0333471ecca475"
+
+[[files]]
 file = "scripts/recipes/lootr.zs"
 hash = "8167db5f2dd0dd5a6282c480e91d7299cfabcdf886a1952ee7eba527e34f046d"
 
