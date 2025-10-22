@@ -1227,6 +1227,10 @@ file = "scripts/recipes/fixPipesAndSitcks.zs"
 hash = "a64d123c7a7e94ccfa59ace76398a39475c02c1b3520ee86cc0333471ecca475"
 
 [[files]]
+file = "scripts/recipes/leatherAndString.zs"
+hash = "b940bf382278121e3e9afaf2e10445e21191f163e86cce42dfe2e70da35dbfed"
+
+[[files]]
 file = "scripts/recipes/lootr.zs"
 hash = "8167db5f2dd0dd5a6282c480e91d7299cfabcdf886a1952ee7eba527e34f046d"
 
