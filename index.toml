@@ -6,7 +6,7 @@ hash = "3a256cdaf82f28fa55a61515d1bd9792fe81a251876dd5ad7b3998705f1bf2c2"
 
 [[files]]
 file = "config/carryon-common.json"
-hash = "1f13a8f85a2b2a537301e3fad12665b217d1375a5ee76c06d6695d403e7a3d3a"
+hash = "72a264bc4fb3de165f33649d4109ff93ac12acf34cf4ad0b9d2b35ba6909ca96"
 
 [[files]]
 file = "config/charm.toml"
@@ -454,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "fb80e945bb07f5453b36fb9c84a43cb9f38c5580976b61bd436f8646ff10d260"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "2bdbc69d7ccd94efde0e042237cc7b8bd23e9d374fabfd50d46d5c2745b74d32"
 metafile = true
 
 [[files]]

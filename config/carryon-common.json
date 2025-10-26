@@ -165,7 +165,15 @@
       "hexcasting:conjured_block",
       "hexcasting:impetus_storedplayer",
       "hexal:slipway",
-      "ducky-periphs:focal_port_block"
+      "ducky-periphs:focal_port_block",
+      "vs_eureka:oak_ship_helm",
+      "vs_eureka:birch_ship_helm",
+      "vs_eureka:spruce_ship_helm",
+      "vs_eureka:jungle_ship_helm",
+      "vs_eureka:acacia_ship_helm",
+      "vs_eureka:dark_oak_ship_helm",
+      "vs_eureka:crimson_oak_ship_helm",
+      "vs_eureka:warped_oak_ship_helm"
     ],
     "//forbiddenEntities": "Entities that cannot be picked up",
     "forbiddenEntities": [
