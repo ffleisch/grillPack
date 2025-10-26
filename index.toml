@@ -538,12 +538,12 @@ metafile = true
 
 [[files]]
 file = "mods/hexgloop.pw.toml"
-hash = "f83b97ff8bd08eba534568c9cb8b1927f686df6e2056615e40e9f02b04422d33"
+hash = "d66c64ef6c5accb9dcc24f1c3c7c602da2950eeb342ef07fcd721fd7fc85273f"
 metafile = true
 
 [[files]]
 file = "mods/hexkinetics.pw.toml"
-hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
+hash = "c9fcd3728dd51abc0e787a716fb693ea6be0febfe5b440e113954f92c2b3326c"
 metafile = true
 
 [[files]]
@@ -683,7 +683,7 @@ metafile = true
 
 [[files]]
 file = "mods/mediaworks.pw.toml"
-hash = "177773a95d90acd64f5a3919a67757ff9e34c5b72e4391a3dcf0c77f8afb867c"
+hash = "0c8abbe5350a015123edc54e06c79319514df2a200740c2cd5602fb2ef8884d1"
 metafile = true
 
 [[files]]
