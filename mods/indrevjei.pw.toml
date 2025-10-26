@@ -1,0 +1,13 @@
+name = "IndRevJEI"
+filename = "IndRevJEI-19.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dxJ23KIQ/versions/8y4h3uQf/IndRevJEI-19.2.0.jar"
+hash-format = "sha512"
+hash = "85e9f354e049bbf2fadac1166a55369b8cad475a8b9158b20717461dfe19188678d741de354a0a99c1e4e101175ddec6f99aba5161101331bb496ed7ae5bfd4a"
+
+[update]
+[update.modrinth]
+mod-id = "dxJ23KIQ"
+version = "8y4h3uQf"

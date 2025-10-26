@@ -562,6 +562,11 @@ hash = "c22cdc80275a728a443d6539bb72d1bcdfe7a7f3a418076a4d0fc0b20b975419"
 metafile = true
 
 [[files]]
+file = "mods/indrevjei.pw.toml"
+hash = "c05fb9b9339eebbbe145df55b801cf10e1a50c291ee4a11ac744b2124813e04e"
+metafile = true
+
+[[files]]
 file = "mods/industrial-revolution.pw.toml"
 hash = "fb7a3cd21ae04e61e5166622dbad8b0f5f85510ff7d2f09f12d5264a0539065d"
 metafile = true
@@ -584,6 +589,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "31f1550204a482bf1c3b5eeae653ac1de19bd82ac60a2d593a7d28bcc66f604f"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "2525e3e87e4ec9ba93d49929080347b81c9db8f79e10b481a8d23c991674c7c1"
 metafile = true
 
 [[files]]
