@@ -1252,8 +1252,12 @@ file = "scripts/recipes/fixPipesAndSitcks.zs"
 hash = "a64d123c7a7e94ccfa59ace76398a39475c02c1b3520ee86cc0333471ecca475"
 
 [[files]]
+file = "scripts/recipes/indrevCreateCompat.zs"
+hash = "2802d718ef68005eee3810a057459efff2a939d2d57e17d8a256240829c8b6ae"
+
+[[files]]
 file = "scripts/recipes/leatherAndString.zs"
-hash = "b940bf382278121e3e9afaf2e10445e21191f163e86cce42dfe2e70da35dbfed"
+hash = "19f5c946ba4bb8ab3656fcb01a69b6e4ece6b91ebb2d9a1c4899d01ba2fd4e46"
 
 [[files]]
 file = "scripts/recipes/lootr.zs"
